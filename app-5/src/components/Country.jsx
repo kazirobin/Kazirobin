@@ -7,7 +7,8 @@ const Country = ({flag,index,handleStore}) => {
       <h4>name: {name.common}</h4>
       <h4>region: {region}</h4>
       <h4>capital: {capital}</h4>
-      <button onClick={handleStore}>visit</button>
+      <button onClick={handleStore}>visit 
+        community </button>
     </div>
   )
 }
