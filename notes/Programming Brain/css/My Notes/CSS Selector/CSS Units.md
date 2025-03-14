@@ -11,7 +11,7 @@ p {
 
 ### Browser Output
 
-![css-units-introduction-example.png](CSS%20Units%201b2aeacbb29981d6adb8fbad804de41a/css-units-introduction-example.png)
+![css-units-introduction-example.png](./CSS%20Units/css-units-introduction-example.png)
 
 Here, we have specified the `width` value of the paragraph with a pixel (`px`) length unit.
 
@@ -76,7 +76,7 @@ div.box {
 
 ### Browser Output
 
-![css-pixels-example.png](CSS%20Units%201b2aeacbb29981d6adb8fbad804de41a/css-pixels-example.png)
+![css-pixels-example.png](./CSS%20Units/css-pixels-example.png)
 
 In the above example, the `width` and `height` of the `div` element are set fixed to `100` pixels, regardless of the screen size.
 
@@ -101,7 +101,7 @@ div.child {
 
 ### Browser Output
 
-![css-percentage-example.png](CSS%20Units%201b2aeacbb29981d6adb8fbad804de41a/css-percentage-example.png)
+![css-percentage-example.png](./CSS%20Units/css-percentage-example.png)
 
 In the above example,
 

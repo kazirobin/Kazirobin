@@ -51,7 +51,7 @@ The `if` keyword checks the condition inside the parentheses `()`.
 
 **Note:** The code inside `{ }` is also called the body of the `if` statement.
 
-![Screenshot_3.jpg](JavaScript%20If%20Else%20Statement%201b2aeacbb29981b9ad6ed17801fa1b3b/Screenshot_3.jpg)
+![Screenshot_3.jpg](JavaScript%20If%20Else%20Statement/Screenshot_3.jpg)
 
 ## Example 1: JavaScript if Statement
 

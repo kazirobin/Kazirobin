@@ -4,4 +4,4 @@ Responsive design wouldn't be possible without media queries. Before media queri
 
 ---
 
-[**Dark Mode - Prefers Color Scheme**](CSS%20Media%20Feature%201b2aeacbb299817180d0cf9d5fd88d04/Dark%20Mode%20-%20Prefers%20Color%20Scheme%201b2aeacbb29981d18315d9ab14664f50.md)
+[**Dark Mode - Prefers Color Scheme**](./CSS%20Media%20Feature/Dark%20Mode%20-%20Prefers%20Color%20Scheme.md)

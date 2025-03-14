@@ -21,24 +21,24 @@ Simple selectors directly select one or more elements:
 
 By learning how the most simple selectors work, you can understand how to use the more complex ones.
 
-[CSS Universal Selector](CSS%20Selector%201b2aeacbb29981fdbe52fbd4b27681c9/CSS%20Universal%20Selector%201b2aeacbb299818d9489fbe318e60c93.md)
+[CSS Universal Selector](./CSS%20Selector/CSS%20Universal%20Selector.md)
 
-[CSS Type Selector](CSS%20Selector%201b2aeacbb29981fdbe52fbd4b27681c9/CSS%20Type%20Selector%201b2aeacbb2998171bd3dc770f35fd156.md)
+[CSS Type Selector](./CSS%20Selector/CSS%20Type%20Selector.md)
 
-[CSS Class Selector](CSS%20Selector%201b2aeacbb29981fdbe52fbd4b27681c9/CSS%20Class%20Selector%201b2aeacbb29981c88bd9c8b6283c0e31.md)
+[CSS Class Selector](./CSS%20Selector/CSS%20Class.md)
 
-[CSS ID Selector](CSS%20Selector%201b2aeacbb29981fdbe52fbd4b27681c9/CSS%20ID%20Selector%201b2aeacbb2998161b7e0db51f683c717.md)
+[CSS ID Selector](./CSS%20Selector/CSS%20ID%201b2aeacbb2998161b7e0db51f683c717.md)
 
-[CSS Attribute Selectors](CSS%20Selector%201b2aeacbb29981fdbe52fbd4b27681c9/CSS%20Attribute%20Selectors%201b2aeacbb29981efab38fe461ffa097c.md)
+[CSS Attribute Selectors](./CSS%20Selector/CSS%20Attribute%201b2aeacbb29981efab38fe461ffa097c.md)
 
-[Grouping CSS Selector](CSS%20Selector%201b2aeacbb29981fdbe52fbd4b27681c9/Grouping%20CSS%20Selector%201b2aeacbb29981c0aaa6dad25bd42a38.md)
+[Grouping CSS Selector](./CSS%20Selector/Grouping%20CSS%201b2aeacbb29981c0aaa6dad25bd42a38.md)
 
-[CSS Combinators](CSS%20Selector%201b2aeacbb29981fdbe52fbd4b27681c9/CSS%20Combinators%201b2aeacbb2998188b61acb98b19f341d.md)
+[CSS Combinators](./CSS%20Selector/CSS%20Combinators.md)
 
-[Pseudo Class Selectors](CSS%20Selector%201b2aeacbb29981fdbe52fbd4b27681c9/Pseudo%20Class%20Selectors%201b2aeacbb29981d38175cb7834ccdab0.md)
+[Pseudo Class Selectors](./CSS%20Selector/Pseudo%20Class%201b2aeacbb29981d38175cb7834ccdab0.md)
 
-[Pseudo Element Selectors](CSS%20Selector%201b2aeacbb29981fdbe52fbd4b27681c9/Pseudo%20Element%20Selectors%201b2aeacbb29981a4aac9e45f66b54399.md)
+[Pseudo Element Selectors](./CSS%20Selector/Pseudo%20Element%201b2aeacbb29981a4aac9e45f66b54399.md)
 
-[**CSS !important**](CSS%20Selector%201b2aeacbb29981fdbe52fbd4b27681c9/CSS%20!important%201b2aeacbb299819cab15efbbabd4f9e2.md)
+[**CSS !important**](./CSS%20Selector/CSS%20%201b2aeacbb299819cab15efbbabd4f9e2.md)
 
-[**CSS Units**](CSS%20Selector%201b2aeacbb29981fdbe52fbd4b27681c9/CSS%20Units%201b2aeacbb29981d6adb8fbad804de41a.md)
+[**CSS Units**](./CSS%20Selector/CSS%20Units.md)

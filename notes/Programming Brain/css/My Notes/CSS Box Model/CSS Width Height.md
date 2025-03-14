@@ -12,7 +12,7 @@ h1 {
 
 ### Browser Output
 
-![css-width-height-introduction-example.png](CSS%20Width%20Height%201b2aeacbb299818f9afec3f5e004946b/css-width-height-introduction-example.png)
+![css-width-height-introduction-example.png](./CSS%20Width%20Height/css-width-height-introduction-example.png)
 
 Here, the `h1` element has a `width` and `height` of `200px` and `100px` respectively.
 
@@ -56,7 +56,7 @@ span {
 
 ### Browser Output
 
-![css-auto-value-example.png](CSS%20Width%20Height%201b2aeacbb299818f9afec3f5e004946b/css-auto-value-example.png)
+![css-auto-value-example.png](./CSS%20Width%20Height/css-auto-value-example.png)
 
 In the above example,
 
@@ -83,7 +83,7 @@ div.second {
 
 ### Browser Output
 
-![css-absolute-width-height-example.png](CSS%20Width%20Height%201b2aeacbb299818f9afec3f5e004946b/css-absolute-width-height-example.png)
+![css-absolute-width-height-example.png](./CSS%20Width%20Height/css-absolute-width-height-example.png)
 
 In the above example, the absolute unit pixel(`px`) causes the div elements to have the same `width` and `height` regardless of the screen size or resolution.
 
@@ -114,7 +114,7 @@ div {
 
 ### Browser Output
 
-![css-relative-width-height-example.png](CSS%20Width%20Height%201b2aeacbb299818f9afec3f5e004946b/css-relative-width-height-example.png)
+![css-relative-width-height-example.png](./CSS%20Width%20Height/css-relative-width-height-example.png)
 
 In the above example, the `p` element has a different output even though both elements have the same styles.
 
@@ -136,7 +136,7 @@ span {
 
 ### Browser Output
 
-![css-inline-width-height-example-one.png](CSS%20Width%20Height%201b2aeacbb299818f9afec3f5e004946b/css-inline-width-height-example-one.png)
+![css-inline-width-height-example-one.png](./CSS%20Width%20Height/css-inline-width-height-example-one.png)
 
 In the above example, the `width` and `height` properties are ignored by the browser.
 
@@ -155,7 +155,7 @@ span {
 
 ### Browser Output
 
-![css-inline-width-height-example-two.png](CSS%20Width%20Height%201b2aeacbb299818f9afec3f5e004946b/css-inline-width-height-example-two.png)
+![css-inline-width-height-example-two.png](./CSS%20Width%20Height/css-inline-width-height-example-two.png)
 
 In the above example, the `width` and `height` values are applied to the `span` element.
 
@@ -177,7 +177,7 @@ p {
 
 ### Browser Output
 
-![css-width-example.png](CSS%20Width%20Height%201b2aeacbb299818f9afec3f5e004946b/css-width-example.png)
+![css-width-example.png](./CSS%20Width%20Height/css-width-example.png)
 
 In the above example, the `width` of the `p` element is `1020px`. As the browser size is reduced to `760px`, the content is cut off, resulting in incomplete information.
 
@@ -195,6 +195,6 @@ p {
 
 ### Browser Output
 
-![css-max-width-example.png](CSS%20Width%20Height%201b2aeacbb299818f9afec3f5e004946b/css-max-width-example.png)
+![css-max-width-example.png](./CSS%20Width%20Height/css-max-width-example.png)
 
 Here, the `max-width` property causes the `p` element to be flexible for the smaller browser size making the content property visible.

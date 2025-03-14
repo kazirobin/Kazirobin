@@ -6,7 +6,7 @@ The box model treats every HTML element as a rectangular box consisting of conte
 
 The box model defines the layout of an HTML element in the following way:
 
-![css-box-sizing-layout.png](CSS%20Box%20Model%201b2aeacbb299818697d3c092fda06600/css-box-sizing-layout.png)
+![css-box-sizing-layout.png](./CSS%20Box%20Model/css-box-sizing-layout.png)
 
 The box model defines the layout of an HTML element in the following way:
 
@@ -91,7 +91,7 @@ span {
 
 ### Browser Output
 
-![css-box-model-inline-example-one.png](CSS%20Box%20Model%201b2aeacbb299818697d3c092fda06600/css-box-model-inline-example-one.png)
+![css-box-model-inline-example-one.png](./CSS%20Box%20Model/css-box-model-inline-example-one.png)
 
 In the above example,
 
@@ -124,7 +124,7 @@ span {
 
 ### Browser Output
 
-![css-box-model-inline-example-two.png](CSS%20Box%20Model%201b2aeacbb299818697d3c092fda06600/css-box-model-inline-example-two.png)
+![css-box-model-inline-example-two.png](./CSS%20Box%20Model/css-box-model-inline-example-two.png)
 
 In the above example, the box model works as expected. The actual `width` and `height` of the `span` element are calculated as:
 

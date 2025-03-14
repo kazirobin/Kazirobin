@@ -18,7 +18,7 @@ p {
 
 ### Browser Output
 
-![css-important-introduction-example.png](CSS%20!important%201b2aeacbb299819cab15efbbabd4f9e2/css-important-introduction-example.png)
+![css-important-introduction-example.png](./CSS%20!important/css-important-introduction-example.png)
 
 Here, we have two selectors (ID selector and element selector) to select and style the paragraph.
 
@@ -81,7 +81,7 @@ p {
 
 ### Browser Output
 
-![css-important-property-example.png](CSS%20!important%201b2aeacbb299819cab15efbbabd4f9e2/css-important-property-example.png)
+![css-important-property-example.png](./CSS%20!important/css-important-property-example.png)
 
 Here, all the `p` elements are displayed in `red` color.
 

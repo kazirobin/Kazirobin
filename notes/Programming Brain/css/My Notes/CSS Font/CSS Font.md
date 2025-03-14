@@ -40,7 +40,7 @@ h1 {
 
 ### Browser Output
 
-![css-font-family.png](CSS%20Font%201b2aeacbb29981ef980fe69f8336207a/css-font-family.png)
+![css-font-family.png](./CSS%20Font/css-font-family.png)
 
 In the above example, we have set the font family of the `h1` element to the `Courier, monospace`. The browser tries to render the text of `h1` in `Courier` font, and if not available, `monospace` is rendered.
 
@@ -64,7 +64,7 @@ p {
 
 ### Browser Output
 
-![css-font-size.png](CSS%20Font%201b2aeacbb29981ef980fe69f8336207a/css-font-size.png)
+![css-font-size.png](./CSS%20Font/css-font-size.png)
 
 ## CSS Font Style
 
@@ -86,7 +86,7 @@ h1.oblique {
 
 ### Browser Output
 
-![css-font-style.png](CSS%20Font%201b2aeacbb29981ef980fe69f8336207a/css-font-style.png)
+![css-font-style.png](./CSS%20Font/css-font-style.png)
 
 The possible values for CSS `font-style` are as follows:
 
@@ -113,7 +113,7 @@ body {
 
 ### Browser Output
 
-![css-font-stretch.png](CSS%20Font%201b2aeacbb29981ef980fe69f8336207a/css-font-stretch.png)
+![css-font-stretch.png](./CSS%20Font/css-font-stretch.png)
 
 **Note:** This property has no effect if the selected font family does not offer condensed or expanded faces.
 
@@ -133,7 +133,7 @@ CSS `font-variant` is used to set the text to `small-caps` (uppercase letter
 
 ### Browser Output
 
-![css-font-variant.png](CSS%20Font%201b2aeacbb29981ef980fe69f8336207a/css-font-variant.png)
+![css-font-variant.png](./CSS%20Font/css-font-variant.png)
 
 The possible values for CSS `font-variant` style are as follows:
 
@@ -154,7 +154,7 @@ p.bold {
 
 ### Browser Output
 
-![css-font-weight.png](CSS%20Font%201b2aeacbb29981ef980fe69f8336207a/css-font-weight.png)
+![css-font-weight.png](./CSS%20Font/css-font-weight.png)
 
 The weight available depends on the `font-family` that is currently set. If the specified `font-family` does not offer the requested font weight, the browser will simulate the lightness or boldness that approximates the requested weight.
 
@@ -175,7 +175,7 @@ CSS `line-height` property is used to set the height of the line box. It allow
 
 ### Browser Output
 
-![css-line-height.png](CSS%20Font%201b2aeacbb29981ef980fe69f8336207a/css-line-height.png)
+![css-line-height.png](./CSS%20Font/css-line-height.png)
 
 The possible values for CSS `line-height` are as follows:
 
@@ -224,4 +224,4 @@ h1 {
 
 ### Browser Output
 
-![css-font-shorthand.png](CSS%20Font%201b2aeacbb29981ef980fe69f8336207a/css-font-shorthand.png)
+![css-font-shorthand.png](./CSS%20Font/css-font-shorthand.png)

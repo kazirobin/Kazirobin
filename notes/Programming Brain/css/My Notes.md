@@ -4,7 +4,8 @@ In communications and information processing, code is a system of rules to conve
 
 ---
 
-[CSS Selector](My%20Notes%201b2aeacbb299818bafaae1e54811f5a8/CSS%20Selector%201b2aeacbb29981fdbe52fbd4b27681c9.md)
+
+[CSS Selector](./My%20Notes/CSS%20Selector.md)
 
 [CSS Font](My%20Notes%201b2aeacbb299818bafaae1e54811f5a8/CSS%20Font%201b2aeacbb29981108a0ed33941273df1.md)
 
@@ -37,3 +38,4 @@ In communications and information processing, code is a system of rules to conve
 [CSS Media Feature](My%20Notes%201b2aeacbb299818bafaae1e54811f5a8/CSS%20Media%20Feature%201b2aeacbb299817180d0cf9d5fd88d04.md)
 
 [CSS Units](My%20Notes%201b2aeacbb299818bafaae1e54811f5a8/CSS%20Units%201b2aeacbb29981bf8e74fe6ea49c495b.md)
+

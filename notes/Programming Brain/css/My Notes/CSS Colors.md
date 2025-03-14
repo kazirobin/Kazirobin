@@ -13,14 +13,14 @@ We can define the color of an element by using the following ways:
 
 Let's understand the syntax and description of the above ways in detail.
 
-[RGB Format](CSS%20Colors%201b2aeacbb299812990abfa674bf6d0d4/RGB%20Format%201b2aeacbb2998129aec1cecd77382285.md)
+[RGB Format](./CSS%20Colors/RGB%20Format.md)
 
-[RGBA Format](CSS%20Colors%201b2aeacbb299812990abfa674bf6d0d4/RGBA%20Format%201b2aeacbb299813e90a6caa78ae283c2.md)
+[RGBA Format](./CSS%20Colors/RGBA%20Format.md)
 
-[Hexadecimal Notation](CSS%20Colors%201b2aeacbb299812990abfa674bf6d0d4/Hexadecimal%20Notation%201b2aeacbb2998152846dc71e14dfe1b9.md)
+[Hexadecimal Notation](./CSS%20Colors/Hexadecimal%20Notation.md)
 
-[HSL](CSS%20Colors%201b2aeacbb299812990abfa674bf6d0d4/HSL%201b2aeacbb29981c38482e14cccfcda99.md)
+[HSL](./CSS%20Colors/HSL.md)
 
-[HSLA](CSS%20Colors%201b2aeacbb299812990abfa674bf6d0d4/HSLA%201b2aeacbb299813eb681e629082dd167.md)
+[HSLA](./CSS%20Colors/HSLA.md)
 
-[Built In Color](CSS%20Colors%201b2aeacbb299812990abfa674bf6d0d4/Built%20In%20Color%201b2aeacbb299817a898cee5a3f2fbd26.md)
+[Built In Color](./CSS%20Colors/Built%20In%20Color.md)

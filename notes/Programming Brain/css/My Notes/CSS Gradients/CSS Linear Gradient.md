@@ -22,7 +22,7 @@ div {
 
 **Browser Output**
 
-![css-linear-gradient-top-example.png](CSS%20Linear%20Gradient%201b2aeacbb29981068b0cd3603194acb3/css-linear-gradient-top-example.png)
+![css-linear-gradient-top-example.png](./CSS%20Linear%20Gradient/css-linear-gradient-top-example.png)
 
 Here, the `linear-gradient` function creates a smooth vertical transition from `orange` to `red` color.
 
@@ -83,7 +83,7 @@ div.box4 {
 
 **Browser Output**
 
-![css-linear-gradient-example-one.png](CSS%20Linear%20Gradient%201b2aeacbb29981068b0cd3603194acb3/css-linear-gradient-example-one.png)
+![css-linear-gradient-example-one.png](./CSS%20Linear%20Gradient/css-linear-gradient-example-one.png)
 
 The above example illustrates the use of different directions for creating the linear gradient.
 
@@ -124,7 +124,7 @@ div.box4 {
 
 **Browser Output**
 
-![css-linear-gradient-example-two.png](CSS%20Linear%20Gradient%201b2aeacbb29981068b0cd3603194acb3/css-linear-gradient-example-two.png)
+![css-linear-gradient-example-two.png](./CSS%20Linear%20Gradient/css-linear-gradient-example-two.png)
 
 The above example illustrates using two values for direction to create a linear gradient that flows in a diagonal direction.
 
@@ -167,7 +167,7 @@ div.box4 {
 
 **Browser Output**
 
-![css-linear-gradient-example-three.png](CSS%20Linear%20Gradient%201b2aeacbb29981068b0cd3603194acb3/css-linear-gradient-example-three.png)
+![css-linear-gradient-example-three.png](./CSS%20Linear%20Gradient/css-linear-gradient-example-three.png)
 
 The above example illustrates the use of degree values for adjusting the directions of the linear gradient.
 
@@ -184,7 +184,7 @@ div {
 
 **Browser Output**
 
-![css-linear-gradient-example-four.png](CSS%20Linear%20Gradient%201b2aeacbb29981068b0cd3603194acb3/css-linear-gradient-example-four.png)
+![css-linear-gradient-example-four.png](./CSS%20Linear%20Gradient/css-linear-gradient-example-four.png)
 
 The above example creates a linear gradient with the `red`, `blue`, and `yellow` colors and the gradient flows from the `top` to `bottom` (default direction).
 
@@ -206,7 +206,7 @@ div {
 
 **Browser Output**
 
-![css-repeating-linear-gradient-example-one.png](CSS%20Linear%20Gradient%201b2aeacbb29981068b0cd3603194acb3/css-repeating-linear-gradient-example-one.png)
+![css-repeating-linear-gradient-example-one.png](./CSS%20Linear%20Gradient/css-repeating-linear-gradient-example-one.png)
 
 In the above example,
 
@@ -229,7 +229,7 @@ div {
 
 **Browser Output**
 
-![css-repeating-linear-gradient-example-two.png](CSS%20Linear%20Gradient%201b2aeacbb29981068b0cd3603194acb3/css-repeating-linear-gradient-example-two.png)
+![css-repeating-linear-gradient-example-two.png](./CSS%20Linear%20Gradient/css-repeating-linear-gradient-example-two.png)
 
 In the above example,
 
