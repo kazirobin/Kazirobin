@@ -137,14 +137,31 @@
         });
 
         // Function to shuffle the characters of a string
-        function shuffleString(str) {
-            const array = str.split('');
-            for (let i = array.length - 1; i > 0; i--) {
-                const j = Math.floor(Math.random() * (i + 1));
-                [array[i], array[j]] = [array[j], array[i]];
-            }
-            return array.join('');
-        }
+        // function shuffleString(str) {
+        //     const array = str.split('');
+        //     for (let i = array.length - 1; i > 0; i--) {
+        //         const j = Math.floor(Math.random() * (i + 1));
+        //         [array[i], array[j]] = [array[j], array[i]];
+        //     }
+        //     return array.join('');
+        // }
+
+        // Function to slightly shuffle the string for easier learning
+function shuffleString(str) {
+    const array = str.split('');
+
+    // Choose how many characters to shuffle (e.g., 10% of the string)
+    const shuffleCount = Math.max(1, Math.floor(array.length * 0.1));
+
+    for (let i = 0; i < shuffleCount; i++) {
+        const index1 = Math.floor(Math.random() * array.length);
+        const index2 = Math.floor(Math.random() * array.length);
+        [array[index1], array[index2]] = [array[index2], array[index1]];
+    }
+
+    return array.join('');
+}
+
 
         // Start timer
         function startTimer() {
